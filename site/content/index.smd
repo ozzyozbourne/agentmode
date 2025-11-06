@@ -1,7 +1,7 @@
 ---
-.title = "Homepage",
-.date = @date("1990-01-01T00:00:00"),
-.author = "Sample Author",
+.title = "Home",
+.date = @date("2025-11-06T00:00:00"),
+.author = "Osaid Khan",
 .layout = "index.shtml",
 .draft = false,
 --- 
@@ -15,36 +15,6 @@ This sample website showcases:
   - `content/blog/index.smd`
   - `content/blog/first-post/index.smd`
   - `content/blog/second-post.smd`
-- A devlog 
-  - `content/devlog/index.smd`
-  - `content/devlog/1990.smd`
-  - `content/devlog/1989.smd`
-
-
-
-## About Devlogs
-
-While a blog has each entry be a separate page, a devlog is one single page with
-a list of smaller entries in it, making it a form of microblogging. The relative
-RSS feed will generate a separate item per devlog entry, creating a
-"twitter-like" feed.
-
-This can be a useful pattern for thoughts that are too small for a full blog post
-so consider giving it a try!
-
-The name "devlog" comes from the fact that this kind of microblogging feed works
-well when you have an open source project and you want to give small updates to
-your users, but it might work equally well for other domains, depending on your
-interests and audience. Maybe a "foodlog", a "catlog" or a "treklog" could also
-work well.
-
-The devlog section contains more information about how devlogs can be implemented
-in Zine.
-
-Some examples of devlogs in the wild:
- - https://zine-ssg.io/log/
- - https://ziglang.org/devlog/
-
 
 ## Next steps
 

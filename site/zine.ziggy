@@ -2,6 +2,7 @@ Site {
     .title = "Agent-Mode",
     .host_url = "https://ozzyozbourne.github.io",
     .url_path_prefix = "agentmode",
+    .content_dir_path = "content",
     .layouts_dir_path = "layouts",
     .assets_dir_path = "assets",
     .static_assets = [
