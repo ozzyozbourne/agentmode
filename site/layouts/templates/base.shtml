@@ -18,9 +18,7 @@
 		<nav>
 			<a href="$site.page('').link()">Home</a>
 			&nbsp; • &nbsp;
-			<a href="$site.page('about').link()">About</a>
-			&nbsp; • &nbsp;
-			<a href="$site.page('blog').link()">Blog</a>
+			<a href="$site.page('references').link()">References</a>
 		</nav>
 		<super>
 		<footer>
@@ -29,4 +27,3 @@
 		</footer>
 	</body>
 </html>
-

@@ -1,58 +1,11 @@
 ---
-.title = "Home",
+.title = "Intro to Distributed Agentic Systems",
 .date = @date("2025-11-06T00:00:00"),
 .author = "Osaid Khan",
 .layout = "index.shtml",
 .draft = false,
 --- 
 
-This sample website showcases:
+## [Agent Slides](https://docs.google.com/presentation/d/1o1eE-iOtMleBY2_8l5kCHyr4n8qZ-hsG7RhSKWFoPuA/edit?usp=sharing)
 
-- A couple simple pages
-  - `content/index.smd`
-  - `content/about.smd`
-- A blog
-  - `content/blog/index.smd`
-  - `content/blog/first-post/index.smd`
-  - `content/blog/second-post.smd`
-
-## Next steps
-
-Make sure to read the [official Zine docs](https://zine-ssg.io/docs/)
-and then start editing this website!
-
-Start by putting the correct information in `zine.ziggy` and then start editing
-the existing pages. Before deleting existing copy consider giving it a brief
-look as it will show you some SuperMD specific syntax.
-
-HTML markup in Zine is defined via SuperHTML templates:
-- `layouts/index.shtml`
-- `layouts/page.shtml`
-- `layouts/post.shtml`
-- `layouts/blog.shtml`
-- `layouts/blog.xml`
-- `layouts/devlog.shtml`
-- `layouts/devlog.xml`
-- `layouts/devlog-archive.shtml`
-- `layouts/templates/base.shtml`
-
-**If you're running the Zine development server (by running `zine`), then all
-changes you make will be picked up immediately, causing the website to rebuild
-and the page in your browser to refresh**.
-
-You can learn more about SuperMD and SuperHTML in [/about/](/about/).
-
-Lastly, this sample website also includes the following asset files:
-
-- `assets/style.css`
-- `assets/hightlight.css`
-- `assets/under-construction.gif`
-- `assets/katex-tag.js`
-- `assets/katex0.16.21.css`
-- `assets/katex0.16.21.js`
-- `content/blog/first-post/fanzine.jpg`
-
-The first few asset files are **site assets**, while the last is a **page asset** that belongs to the "first post" page.
-
-The Zine docs contain more information about [dealing with assets](https://zine-ssg.io/docs/assets/).
 
