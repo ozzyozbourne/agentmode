@@ -1,4 +1,6 @@
-## Pace University AI Lab - Build distributed fault-tolerant multi-Agentic systems with langGraph, langSmith, LangChain and more (20th Nov 2025)
+## Pace University AI Lab - (20th Nov 2025)
+
+### Build distributed fault-tolerant multi-Agentic systems with langGraph, langSmith, LangChain and more 
 
 please visit [github page](https://ozzyozbourne.github.io/agentmode/) for more info
 
