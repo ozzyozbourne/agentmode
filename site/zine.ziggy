@@ -1,5 +1,5 @@
 Site {
-    .title = "Agent-Mode",
+    .title = "AgentMode",
     .host_url = "https://ozzyozbourne.github.io",
     .url_path_prefix = "agentmode",
     .content_dir_path = "content",
