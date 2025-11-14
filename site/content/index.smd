@@ -10,15 +10,22 @@
 
 ### Worksheets
 1. [REST Responses](https://colab.research.google.com/drive/1k0kQcpK1R11FhBHhcVNfvNZPee6FLfPC?usp=sharing)
-
-
+2. [Bash Agent 1](https://colab.research.google.com/drive/1A_amPp-BcUsh7n9FAHg_Uhfvkk3xnmlB?usp=sharing)
+3. [Bash Agent 2]()
 ## References
 
 ### Sites 
 1. [Agent Development Kit](https://google.github.io/adk-docs/)
+2. [OpenAI API Docs](https://platform.openai.com/docs/api-reference/introduction)
+3. [A2A Docs](https://a2a-protocol.org/latest/)
 
 ### Courses
 1. [Google Agent Course](https://www.kaggle.com/learn-guide/5-day-agents)
+2. [LangChain Academy](https://academy.langchain.com/)
+
+
+### Github
+1. [A2A Examples](https://github.com/a2aproject/a2a-samples/tree/main/samples)
 
 ### Youtube
 
