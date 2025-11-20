@@ -10,14 +10,17 @@
 
 ### Worksheets
 1. [REST Responses](https://colab.research.google.com/drive/1k0kQcpK1R11FhBHhcVNfvNZPee6FLfPC?usp=sharing)
-2. [Bash Agent 1](https://colab.research.google.com/drive/1A_amPp-BcUsh7n9FAHg_Uhfvkk3xnmlB?usp=sharing)
-3. [Bash Agent 2]()
+2. [Bash React Agent](https://colab.research.google.com/drive/1A_amPp-BcUsh7n9FAHg_Uhfvkk3xnmlB?usp=sharing)
+3. [Bash MCP Simulation](https://colab.research.google.com/drive/1Z1fFiKZErbpoTxmlMr3bfRLM4vKEP2Bz?usp=sharing)
+
 ## References
 
 ### Sites 
 1. [Agent Development Kit](https://google.github.io/adk-docs/)
 2. [OpenAI API Docs](https://platform.openai.com/docs/api-reference/introduction)
 3. [A2A Docs](https://a2a-protocol.org/latest/)
+4. [Akka Actors as Agentic Systems](https://pradeepl.com/blog/agentic-ai/akka-actor-model-agentic-ai/)
+5. [Golem Cloud Sim](https://www.golem.cloud/#simulation)
 
 ### Courses
 1. [Google Agent Course](https://www.kaggle.com/learn-guide/5-day-agents)
@@ -33,14 +36,14 @@
 2. [Dapr Agents 2](https://www.youtube.com/watch?v=vjgVzp_0B0c)
 3. [Dapr Agents 3](https://www.youtube.com/watch?v=Kk1B3L8SAl0)
 4. [Dapr](https://www.youtube.com/watch?v=4aE1oIf_-vM)
+5. [Actor Model](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
+6. [Erlang the movie](https://www.youtube.com/watch?v=xrIjfIjssLE)
 
 ### pdf
 1. [Agents Paper](https://www.kaggle.com/whitepaper-introduction-to-agents)
+2. [Actor Model](https://arxiv.org/vc/arxiv/papers/1008/1008.1459v8.pdf)
 
 ### Books
 1. [Agentic Design patterns](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018)
 2. [Akka in action](https://www.manning.com/books/akka-in-action-second-edition)
 3. [Programming Erlang](https://pragprog.com/titles/jaerlang2/programming-erlang-2nd-edition/)
-
-
-
