@@ -12,8 +12,20 @@
 1. [REST Responses](https://colab.research.google.com/drive/1k0kQcpK1R11FhBHhcVNfvNZPee6FLfPC?usp=sharing)
 2. [Bash React Agent](https://colab.research.google.com/drive/1A_amPp-BcUsh7n9FAHg_Uhfvkk3xnmlB?usp=sharing)
 3. [Bash MCP Simulation](https://colab.research.google.com/drive/1Z1fFiKZErbpoTxmlMr3bfRLM4vKEP2Bz?usp=sharing)
+4. [Observability Demo 1](https://colab.research.google.com/drive/1cx9Rib5wOsosI8rlI2itqtJJO6-Pa3U-?usp=sharing)
+5. [Observability Demo 2](https://colab.research.google.com/drive/1evSYSQKROXCY6R79pTgYB13Y3SElReDY?usp=sharing)
+6. [Observability Demo 3](https://colab.research.google.com/drive/15ZA-dbnwit3bYVq7E_6HgKC9qL5vVI71?usp=sharing)
+7. [Observability Demo 4](https://colab.research.google.com/drive/1tt84jrkOo3sSfk8gAu-Lqizv1fULAXog?usp=sharing)
 
 ## References
+
+### Observability Backends
+
+1. [Langfuse](https://us.cloud.langfuse.com/)
+2. [Langsmith](https://smith.langchain.com/)
+
+### Search
+1. [Tavily](https://www.tavily.com/)
 
 ### Sites 
 1. [Agent Development Kit](https://google.github.io/adk-docs/)
