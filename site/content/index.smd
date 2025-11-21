@@ -8,7 +8,7 @@
 
 ## [Google Slide](https://docs.google.com/presentation/d/1o1eE-iOtMleBY2_8l5kCHyr4n8qZ-hsG7RhSKWFoPuA/edit?usp=sharing)
 
-### Worksheets
+### Google Collab Notebooks
 1. [REST Responses](https://colab.research.google.com/drive/1k0kQcpK1R11FhBHhcVNfvNZPee6FLfPC?usp=sharing)
 2. [Bash React Agent](https://colab.research.google.com/drive/1A_amPp-BcUsh7n9FAHg_Uhfvkk3xnmlB?usp=sharing)
 3. [Bash MCP Simulation](https://colab.research.google.com/drive/1Z1fFiKZErbpoTxmlMr3bfRLM4vKEP2Bz?usp=sharing)
@@ -20,7 +20,6 @@
 ## References
 
 ### Observability Backends
-
 1. [Langfuse](https://us.cloud.langfuse.com/)
 2. [Langsmith](https://smith.langchain.com/)
 
@@ -43,13 +42,13 @@
 1. [A2A Examples](https://github.com/a2aproject/a2a-samples/tree/main/samples)
 
 ### Youtube
-
 1. [Dapr Agents 1](https://www.youtube.com/watch?v=VLRg4TKtLBc)
 2. [Dapr Agents 2](https://www.youtube.com/watch?v=vjgVzp_0B0c)
 3. [Dapr Agents 3](https://www.youtube.com/watch?v=Kk1B3L8SAl0)
 4. [Dapr](https://www.youtube.com/watch?v=4aE1oIf_-vM)
 5. [Actor Model](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
 6. [Erlang the movie](https://www.youtube.com/watch?v=xrIjfIjssLE)
+7. [Talk Concurrency](https://www.youtube.com/watch?v=37wFVVVZlVU)
 
 ### pdf
 1. [Agents Paper](https://www.kaggle.com/whitepaper-introduction-to-agents)
@@ -59,4 +58,3 @@
 1. [Agentic Design patterns](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018)
 2. [Akka in action](https://www.manning.com/books/akka-in-action-second-edition)
 3. [Programming Erlang](https://pragprog.com/titles/jaerlang2/programming-erlang-2nd-edition/)
-

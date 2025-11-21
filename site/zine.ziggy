@@ -1,5 +1,5 @@
 Site {
-    .title = "AgentMode",
+    .title = "Pace AI Guided lab",
     .host_url = "https://ozzyozbourne.github.io",
     .url_path_prefix = "agentmode",
     .content_dir_path = "content",
